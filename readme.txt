@@ -2,4 +2,3 @@
 Git is free software.update
 update
 Git has a mutable index called stage.
-123 456
